@@ -45,20 +45,20 @@
 ## 🧑‍💻 Developer Mode
 
 ```text
-┌──────────────────────────────────────────────┐
-│              DEVELOPER PROFILE               │
-├──────────────────────────────────────────────┤
-│ 👤 Name       : Sakthi Paramesh B            │
-│ 🎓 Degree     : B.E. Computer Science        │
-│ 💻 Role       : Aspiring Software Developer  │
-│ ☕ Primary     : Java                         │
-│ 🐍 Secondary   : Python                       │
-│ ⚙️ Backend     : Spring Boot / Django        │
-│ 🗄️ Database   : MySQL                        │
-│ 🌐 Frontend    : HTML / CSS / JS / Bootstrap │
-│ 🔧 Tools      : Git / GitHub / VS Code       │
-│ 🚀 Status     : Learning → Building → Growing│
-└──────────────────────────────────────────────┘
+
+             DEVELOPER PROFILE               
+
+ 👤 Name       : Sakthi Paramesh B            
+ 🎓 Degree     : B.E. Computer Science        
+ 💻 Role       : Aspiring Software Developer  
+ ☕ Primary    : Java                         
+ 🐍 Secondary  : Python                       
+ ⚙️ Backend    : Spring Boot / Django        
+ 🗄️ Database   : MySQL                        
+ 🌐 Frontend   : HTML / CSS / JS / Bootstrap 
+ 🔧 Tools      : Git / GitHub / VS Code       
+ 🚀 Status     : Learning → Building → Growing
+
 ```
 
 ---
