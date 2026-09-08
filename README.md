@@ -115,7 +115,7 @@
 
 ### Software Intern — THIRANEX
 
-**May 2026**
+**May 2026-June 2026**
 
 * 💻 Strengthened programming skills in **Java and Python**
 * 🌐 Developed responsive web pages using **HTML, CSS, JavaScript and Bootstrap**
@@ -289,7 +289,7 @@ https://github.com/Sakthi-Paramesh
 ## 🧠 Problem Solving Mindset
 
 ```text
-                 💡 IDEA
+                💡 IDEA
                     │
                     ▼
              🔍 UNDERSTAND
