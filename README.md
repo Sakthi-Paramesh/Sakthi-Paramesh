@@ -30,9 +30,9 @@
 📊 **CGPA: 8.90 / 10** *(up to 6th semester)*
 🎯 **Expected Graduation: May 2027**
 
-💻 Passionate about **Software Development, Backend Development and Full-Stack Web Development**.
+💻 Passionate about **Software Development, Backend Development , Software Testing and Full-Stack Web Development**.
 
-🚀 I enjoy transforming ideas into practical software applications using **Java, Spring Boot, Python, Django and MySQL**.
+🚀 I enjoy transforming ideas into practical software applications using **Java, Spring Boot, Javascript Python, Django and MySQL**.
 
 🌱 Currently improving my skills in **Spring Boot, Django, JavaScript, REST APIs and Full-Stack Development**.
 
