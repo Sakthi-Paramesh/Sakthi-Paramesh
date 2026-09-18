@@ -1,131 +1,182 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sakthi Paramesh B**
+# 👋 Hey! I'm **SAKTHI PARAMESH B**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Full+Stack+Web+Developer;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+Developer+%E2%98%95;Python+%7C+Django+Developer+%F0%9F%90%8D;Full+Stack+Web+Developer+%F0%9F%92%BB;Software+Testing+Enthusiast+%F0%9F%A7%AA;Building+Projects+%7C+Learning+%7C+Growing+%F0%9F%94%A5" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Sakthi-Paramesh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+<br>
 
-<p>
-  <a href="https://github.com/Sakthi-Paramesh">
-    <img src="https://img.shields.io/badge/GitHub-Sakthi--Paramesh-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:sakthiparameshbala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Sakthi-Paramesh&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/Sakthi-Paramesh">
+<img src="https://img.shields.io/badge/GitHub-Sakthi--Paramesh-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:sakthiparameshbala@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+### 💻 `while(alive) { code(); learn(); build(); }`
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 **B.E. Computer Science and Engineering**
-🏫 Shree Venkateshwara Hi-Tech Engineering College, Erode
+
+🏫 **Shree Venkateshwara Hi-Tech Engineering College, Erode**
+
 📊 **CGPA: 8.90 / 10** *(up to 6th semester)*
+
 🎯 **Expected Graduation: May 2027**
 
-💻 Passionate about **Software Development, Backend Development , Software Testing and Full-Stack Web Development**.
+💻 Passionate about:
 
-🚀 I enjoy transforming ideas into practical software applications using **Java, Spring Boot, Javascript Python, Django and MySQL**.
+* ☕ Java & Spring Boot
+* 🐍 Python & Django
+* 🌐 Full-Stack Development
+* 🧪 Software Testing
+* 🗄️ Database Development
+* 🤖 AI-powered Applications
 
-🌱 Currently improving my skills in **Spring Boot, Django, JavaScript, REST APIs and Full-Stack Development**.
+🚀 I enjoy transforming ideas into practical software applications.
 
-⚡ **My goal:** Build scalable applications, solve real-world problems and continuously grow as a software developer.
+🌱 Currently improving my skills in **Spring Boot, Django, JavaScript, REST APIs, DSA and Full-Stack Development**.
+
+⚡ My goal is to **build useful software, solve real-world problems and continuously improve as a developer.**
 
 <br clear="right"/>
 
 ---
 
-## 🧑‍💻 Developer Mode
+# 🖥️ Developer Terminal
 
-```text
+```bash
+┌──(sakthi㉿developer)-[~/portfolio]
+└─$ whoami
 
-             DEVELOPER PROFILE               
+> Sakthi Paramesh B
 
- 👤 Name       : Sakthi Paramesh B            
- 🎓 Degree     : B.E. Computer Science        
- 💻 Role       : Aspiring Software Developer  
- ☕ Primary    : Java                         
- 🐍 Secondary  : Python                       
- ⚙️ Backend    : Spring Boot / Django        
- 🗄️ Database   : MySQL                        
- 🌐 Frontend   : HTML / CSS / JS / Bootstrap 
- 🔧 Tools      : Git / GitHub / VS Code       
- 🚀 Status     : Learning → Building → Growing
+┌──(sakthi㉿developer)-[~/skills]
+└─$ cat skills.txt
 
+☕ Java
+⚙️ Spring Boot
+🐍 Python
+🌱 Django
+🌐 JavaScript
+🎨 HTML / CSS / Bootstrap
+🗄️ MySQL
+🔧 Git / GitHub
+💻 VS Code / IntelliJ IDEA
+
+┌──(sakthi㉿developer)-[~/status]
+└─$ status
+
+> Learning... ████████████████████ 100%
+> Building... ██████████████████░░ 90%
+> Improving.. █████████████████░░░ 85%
+
+┌──(sakthi㉿developer)-[~/mission]
+└─$ ./career.sh
+
+> Become a Software Developer 🚀
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
+### 💻 Languages
 
-### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=java,python,js&perline=6" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
+<br><br>
 
-### ⚙️ Backend Development
+### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,django" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=6" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,django&perline=6" />
+
+<br><br>
 
 ### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=6" />
 
-### 🔧 Tools & Platforms
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=6" />
+
+</div>
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 🚀 What I'm Currently Doing
 
-```diff
-+ Building Java & Spring Boot applications
-+ Developing REST APIs
-+ Learning advanced backend development
-+ Improving Data Structures & Algorithms
-+ Building full-stack web applications
-+ Exploring AI-powered applications
-+ Preparing for software development opportunities
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&center=true&vCenter=true&width=750&lines=Building+Spring+Boot+Applications+%F0%9F%9A%80;Developing+REST+APIs+%F0%9F%94%8C;Practicing+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Building+Full+Stack+Applications+%F0%9F%92%BB;Exploring+AI+Powered+Applications+%F0%9F%A4%96;Preparing+for+Software+Developer+Opportunities+%F0%9F%8E%AF"/>
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🏢 Software Intern — THIRANEX
+
+**May 2026 – June 2026**
+
+```text
+💻 Java & Python Programming
+        ↓
+🌐 Responsive Web Development
+        ↓
+🧩 Practical Programming Projects
+        ↓
+🤝 Team Collaboration
+        ↓
+🚀 Real-World Development Practices
 ```
 
----
+### What I Worked On
 
-## 💼 Experience
-
-### Software Intern — THIRANEX
-
-**May 2026-June 2026**
-
-* 💻 Strengthened programming skills in **Java and Python**
-* 🌐 Developed responsive web pages using **HTML, CSS, JavaScript and Bootstrap**
-* 🧩 Worked on practical programming assignments and projects
-* 🤝 Improved teamwork, problem-solving and software development skills
-* 🚀 Gained hands-on exposure to real-world development practices
+* 💻 Strengthened Java and Python programming skills
+* 🌐 Developed responsive web interfaces
+* 🎨 Worked with HTML, CSS, JavaScript and Bootstrap
+* 🧩 Solved practical programming assignments
+* 🤝 Improved teamwork and problem-solving
+* 🚀 Gained hands-on software development experience
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<div align="center">
 
 ### 🏥 NALAM PHC
 
@@ -133,17 +184,25 @@
 
 `Java` `Spring Boot` `HTML` `CSS` `Bootstrap` `MySQL`
 
-A web-based healthcare management application designed to manage:
+</div>
 
-* 👨‍⚕️ Patients
-* 📅 Appointments
-* 📋 Medical Records
-* 🏥 Healthcare Operations
+A healthcare management application designed to manage:
 
-🔗 **Repository:**
-https://github.com/Sakthi-Paramesh
+```text
+👨‍⚕️ Doctors
+      ↓
+👤 Patients
+      ↓
+📅 Appointments
+      ↓
+📋 Medical Records
+      ↓
+🏥 Healthcare Operations
+```
 
 ---
+
+<div align="center">
 
 ### 🚨 Disaster Resource Management System
 
@@ -151,19 +210,20 @@ https://github.com/Sakthi-Paramesh
 
 `Java` `Spring Boot` `HTML` `CSS` `Bootstrap` `MySQL`
 
-A web application designed to help manage emergency resources during disasters.
+</div>
 
-### Key Features
+Designed to support emergency response and resource coordination.
 
-* 🚑 Emergency resource management
-* 👥 Volunteer management
-* 📦 Relief resource tracking
-* 🚨 Disaster response coordination
+### Features
 
-🔗 **Repository:**
-https://github.com/Sakthi-Paramesh
+🚑 Emergency Resource Management
+👥 Volunteer Management
+📦 Relief Resource Tracking
+🚨 Disaster Response Coordination
 
 ---
+
+<div align="center">
 
 ### 🥫 Smart Pantry
 
@@ -171,151 +231,205 @@ https://github.com/Sakthi-Paramesh
 
 `Java` `Spring Boot` `HTML` `CSS` `MySQL`
 
-A pantry management application designed to track products and reduce food wastage.
+</div>
 
-### Key Features
+A pantry management application focused on tracking products and reducing food wastage.
 
-* 📦 Product management
-* ⏰ Expiry-date tracking
-* 🔔 Expiry alerts
-* 📊 Pantry monitoring
-* ♻️ Food-waste reduction
+### Features
 
-🔗 **Repository:**
-https://github.com/Sakthi-Paramesh
-
----
-
-## 🏆 Certifications & Achievements
-
-🏅 **NPTEL — Programming in Java**
-
-> Elite + Gold Grade — **90%**
-
-💡 **EDII-TN "Nimirndhu Nil" Hackathon**
-
-> Reached the **Second Round of the Ideation Camp**
-
-🧑‍💻 **Hackathon — Selvam College of Technology**
-
-> Participated in a technical hackathon and developed practical problem-solving skills.
-
-🏆 **Innovate 2K25**
-
-> Presented a project at the **National Level Project Competition**.
+📦 Product Management
+⏰ Expiry-Date Tracking
+🔔 Expiry Alerts
+📊 Pantry Monitoring
+♻️ Food-Waste Reduction
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 Certifications & Achievements
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sakthi-Paramesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sakthi-Paramesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi-Paramesh&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+### 🏅 NPTEL — Programming in Java
+
+**Elite + Gold Grade — 90%**
+
+### 💡 EDII-TN — Nimirndhu Nil Hackathon
+
+Reached the **Second Round of the Ideation Camp**
+
+### 🧑‍💻 Selvam College of Technology Hackathon
+
+Participated in a technical hackathon and developed practical problem-solving skills.
+
+### 🏆 Innovate 2K25
+
+Presented a project at a **National Level Project Competition**.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakthi-Paramesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthi-Paramesh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sakthi-Paramesh&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Sakthi-Paramesh&theme=tokyonight&hide_border=true&mode=weekly"/>
 
 </div>
 
 ---
 
-## 🐍 My Contribution Journey
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakthi-Paramesh&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 📈 My Developer Journey
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🧠 Problem Solving Mindset
+
+<div align="center">
 
 ```text
-2024  ──────────────── 🌱 Started exploring programming
-                         │
-2025  ──────────────── 💻 Built web applications
-                         │
-2026  ──────────────── ☕ Java + Spring Boot + Python
-                         │
-                         ├── 🚀 Software Internship
-                         ├── 🏆 Hackathons
-                         ├── 🎖️ NPTEL Java Gold
-                         └── 🧩 Real-world projects
-                         │
-2027  ──────────────── 🎯 Software Developer
-```
-
----
-
-## 🎯 2026–27 Goals
-
-* [x] Learn Java fundamentals
-* [x] Learn OOP concepts
-* [x] Learn SQL & MySQL
-* [x] Build web applications
-* [x] Learn Spring Boot
-* [x] Learn Django
-* [x] Complete software internship
-* [ ] Master Data Structures & Algorithms
-* [ ] Build production-level applications
-* [ ] Improve System Design knowledge
-* [ ] Contribute to Open Source
-* [ ] Start my Software Developer career 🚀
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-### `"Code. Learn. Build. Fail. Improve. Repeat. 🚀"`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Every+line+of+code+is+a+step+forward.;Learning+today%2C+building+tomorrow.;Turning+ideas+into+working+software.;Consistency+beats+perfection." />
-
-</div>
-
----
-
-## 🧠 Problem Solving Mindset
-
-```text
-                💡 IDEA
+                 💡 IDEA
                     │
                     ▼
-             🔍 UNDERSTAND
+              🔍 UNDERSTAND
                     │
                     ▼
-             🧠 ANALYZE
+                🧠 THINK
                     │
                     ▼
-              💻 CODE
+               📝 DESIGN
                     │
                     ▼
-              🧪 TEST
+                💻 CODE
+                    │
+                    ▼
+                🧪 TEST
                     │
               ┌─────┴─────┐
               │           │
-           ❌ BUG        ✅ PASS
+           ❌ BUG       ✅ PASS
               │           │
               ▼           ▼
           🔧 DEBUG     🚀 DEPLOY
-              │
-              └──────► 🔄 IMPROVE
+              │           │
+              └─────┬─────┘
+                    ▼
+                 🔄 IMPROVE
+                    │
+                    ▼
+                  🚀 REPEAT
+```
+
+</div>
+
+---
+
+# 📅 My Developer Journey
+
+<div align="center">
+
+```text
+🌱 2024
+│
+├── Started Programming
+│
+▼
+💻 2025
+│
+├── Web Development
+├── Java
+├── Python
+└── Built Projects
+│
+▼
+🚀 2026
+│
+├── Spring Boot
+├── Django
+├── Software Internship
+├── Hackathons
+├── NPTEL Java Gold
+└── Real-World Projects
+│
+▼
+🎯 2027
+│
+├── Production-Level Projects
+├── Advanced DSA
+├── System Design
+├── Open Source
+└── Software Developer 🚀
+```
+
+</div>
+
+---
+
+# 🎯 2026–27 Goals
+
+```text
+Java Fundamentals             ████████████████████ ✅
+OOP Concepts                  ████████████████████ ✅
+SQL & MySQL                  ████████████████████ ✅
+Web Development              ████████████████████ ✅
+Spring Boot                  ████████████████████ ✅
+Django                       ████████████████████ ✅
+Software Internship          ████████████████████ ✅
+
+Data Structures & Algorithms ███████████████░░░░░  🔄
+Production Applications      ████████████░░░░░░░░  🔄
+System Design                ██████████░░░░░░░░░░  🔄
+Open Source                  ███████░░░░░░░░░░░░░  🔄
+Software Developer Career    █████░░░░░░░░░░░░░░░  🎯
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 💡 Developer Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Every+Bug+Is+Another+Learning+Opportunity.;Consistency+Beats+Perfection.;Learning+Today+%7C+Building+Tomorrow;Turning+Ideas+Into+Working+Software+%F0%9F%9A%80"/>
+
+<br>
+
+### `"Code. Learn. Build. Fail. Improve. Repeat. 🚀"`
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -333,10 +447,14 @@ https://github.com/Sakthi-Paramesh
 
 <div align="center">
 
-### 👨‍💻 Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%92%BB;Let's+Build+Something+Amazing!+%F0%9F%9A%80;Keep+Learning+%F0%9F%8C%B1;Keep+Growing+%F0%9F%94%A5"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB;Let's+Build+Something+Amazing!+%F0%9F%9A%80;Keep+Learning+%F0%9F%8C%B1;Keep+Growing+%F0%9F%94%A5" />
+<br><br>
 
 ⭐ **If you find my projects interesting, consider giving them a star!**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
 
 </div>
